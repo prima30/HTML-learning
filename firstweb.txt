@@ -1,0 +1,32 @@
+
+<html>  
+ <head>
+  <title> My first website </title>
+ </head>
+
+<body style="background-color:white;">
+
+ <h1> Welcome!!! to my fisrt website. </h1>
+ <h6> this is the lowest test size in heading </h6>
+<hr>  
+<h2 title="hypertext markup language"> HTML </h2>
+
+ <p> Hello world....  <p>
+ <em> this is emphasized text </em>
+<strong>Stronger emphasis.</strong>
+<br>
+ <b> this is bold text <b>
+<ul>
+<li> MAngo </li>
+<li> orange </li>
+</ul>
+
+<ol>
+<li> no 1  </li>
+<li> no 2 </li>
+</ol>
+<body>
+
+
+
+</html>
