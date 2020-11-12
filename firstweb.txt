@@ -6,7 +6,7 @@
 
 <body style="background-color:white;">
 
- <h1> Welcome!!! to my fisrt website. </h1>
+ <h1>welcome to my first website! </h1>
  <h6> this is the lowest test size in heading </h6>
 <hr>  
 <h2 title="hypertext markup language"> HTML </h2>
