@@ -1,0 +1,24 @@
+
+<html> 
+<head> 
+<title> contact us </title>
+</head>
+
+<body>
+<p> <a id ="top">  Top  </a>  </p>
+<p>
+ <h1> <a href="file:///C:/Users/Documents/html5/firstweb.html"> Home  </a> </h1>
+<h1> About us </h1> </p>
+
+ <h2> Welcome to Ariste. here you can find what you want in an affordable price. You can make custom product. </h2>
+
+<h2> To order .............</h2>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<p> <a href="https://mail.google.com"> Send us an email </a> </p>
+
+<p> <a href="#top"> Go to top  </a> </p>
+</body>
+
+</html>
